@@ -1,6 +1,6 @@
 # SKILL.md
 
-## JSRT
+## jsrt-claw
 
 ### Overview
 
