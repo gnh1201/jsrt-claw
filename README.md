@@ -1,5 +1,5 @@
 # jsrt-claw
-The "claw" version of WelsonJS concept implementation - OpenClaw compatible the skill definition for a bulit-in JsRT
+The "claw" version of WelsonJS concept - OpenClaw compatible the skill definition for a bulit-in JsRT
 
 This project is a subproject of [WelsonJS opensource project](https://github.com/gnh1201/welsonjs) in Catswords OSS
 
